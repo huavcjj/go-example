@@ -1,3 +1,3 @@
-module github.com/huavcjj/learn-go
+module github.com/huavcjj/go-exmaple
 
 go 1.23.0
